@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Node
+I’m currently learning Node...
